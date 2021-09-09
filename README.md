@@ -1,4 +1,4 @@
-HP Pavilion 15-au042tx 笔记本电脑规格
+HP Pavilion 15-au042tx 笔记本电脑
                                   
 cpu: 
 
@@ -88,13 +88,17 @@ BIOS：
         opencore 
         
         
+==================================================
+
 相关下载：
 
 [itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort)
 
 [airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
 
-来自同配置:
+==================================================
+
+同配置其他引导:
 
 [clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
  来自俄罗斯大佬 Drovosek01 应该可以10.15+
