@@ -97,6 +97,7 @@ BIOS：
 来自同配置:
 
 [clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
+ 来自俄罗斯大佬 Drovosek01 应该可以10.15+
 
 
 
