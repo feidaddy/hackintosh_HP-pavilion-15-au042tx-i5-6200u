@@ -1,0 +1,1 @@
+# hackintosh_HP-pavilion-15-au042tx-i5-6200u
