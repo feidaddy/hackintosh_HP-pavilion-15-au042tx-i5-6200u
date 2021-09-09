@@ -1,5 +1,5 @@
 HP Pavilion 15-au042tx 笔记本电脑规格
-
+                                  
 cpu: 
 
     英特尔酷睿 i5-6200U 2.3GHz、Turboboost 2.8GHz     
@@ -56,9 +56,10 @@ BIOS：
         内置音频  （alcidi=24）
         3.5 迷你插孔耳机接口
         以太网 （理论上支持，无接网线，未测试）
-        无线上网  [itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport.APP](https://github.com/OpenIntelWireless/HeliPort)
-        后续更新了 [airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh) ，并启用原生wifi部件
-       #优先建议使用这个驱动，并且与上面的驱动有冲突，只能二选一#
+        无线上网 
+        itlwm+heliport.app
+        后续更新了 airportitlwm ，并启用原生wifi部件
+              #优先建议使用这个驱动，并且与上面的驱动有冲突，只能二选一#
         蓝牙 （未测试，能正常打开关闭 - -）
         
 
@@ -76,4 +77,24 @@ BIOS：
         Continuity 
         HDMI
         dvd光驱（在 macOS 中可以识别，您甚至可以通过在界面中按几个按钮来打开它，但我没有 DVD/CD 来检查光驱的运行情况）
+        
+测试系统：
+     
+        macos 11
+        
+引导：
+        
+        opencore 
+        
+        
+相关下载：
+
+[itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport.APP](https://github.com/OpenIntelWireless/HeliPort)
+
+[airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
+
+来自同配置:
+
+[clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
+
         
