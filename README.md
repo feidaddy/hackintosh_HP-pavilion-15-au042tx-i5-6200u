@@ -50,26 +50,27 @@ BIOS：
 
         英特尔高清显卡 520
         图形加速 Inte Quick Sync
-        声卡用Fn+F6/Fn+F7/Fn+F8键调节声音为“静音”，分别减小音量和增大音量
+        声卡用Fn+F6/Fn+F7，分别减小音量和增大音量
         触控板 - 无手势   
         USB 2.0 端口  （未定制usb端口）
         内置音频  （alcidi=24）
-        3.5 迷你插孔耳机接口
+        3.5 迷你插孔耳机接口   (插入拔出均无异常)
         以太网 （理论上支持，无接网线，未测试）
-        无线上网 
-        itlwm+heliport.app
-        后续更新了 airportitlwm ，并启用原生wifi部件
+        无线上网： 
+              itlwm+heliport.app
+            后续更新了 
+              airportitlwm ，并启用原生wifi部件
               #优先建议使用这个驱动，并且与上面的驱动有冲突，只能二选一#
         蓝牙 （未测试，能正常打开关闭 - -）
         
 
 不能正常设备：
 
-        Nvidia Geforce 940MX（在 macOSNVOP中通过配置中的补丁禁用）
+        Nvidia Geforce 940MX
         Usb 3.0 
         显示器亮度
         
-未测试设备：       
+未测试：       
 
         FaceTime
         iMassage
@@ -80,7 +81,7 @@ BIOS：
         
 测试系统：
      
-        macos 11
+        macos 11 （理论上支持到11.5.2）
         
 引导：
         
