@@ -98,4 +98,4 @@ BIOS：
 
 [clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
 
-        
+[联系我](http://wpa.qq.com/msgrd?v=3&uin=627791772&site=qq&menu=yes)
