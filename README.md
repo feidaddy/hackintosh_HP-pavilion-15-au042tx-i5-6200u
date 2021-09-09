@@ -90,7 +90,7 @@ BIOS：
         
 相关下载：
 
-[itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport.APP](https://github.com/OpenIntelWireless/HeliPort)
+[itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort)
 
 [airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
 
