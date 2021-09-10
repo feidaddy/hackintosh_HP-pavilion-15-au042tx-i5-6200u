@@ -69,10 +69,13 @@ BIOS：
         Nvidia Geforce 940MX
         Usb 3.0 
         显示器亮度
+        cpu风扇转速
+        cpu温度
         
 未测试：       
 
-        FaceTime
+        电池电量（因为我的电池已经卸下了，所以并不清楚能不能正常显示）
+        FaceTime  
         iMassage
         HandOff
         Continuity 
@@ -88,20 +91,28 @@ BIOS：
         opencore 
         
         
-==================================================
+========================================
 
 相关下载：
+
+[一键hidpi](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/%E4%B8%80%E9%94%AEhidpi.zip)
+
+[菜单栏修改分辨率](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/raw/main/RDM.zip)
+
+[菜单栏修改屏幕亮度](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/QuickShade.zip)
+
+无线上网驱动：
 
 [itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort)
 
 [airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
 
-==================================================
+========================================
 
 同配置其他引导:
 
-[clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
- 来自俄罗斯大佬 Drovosek01 应该可以10.15+
+[cloverv5119](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
+ 来自大佬 [@Drovosek01](https://github.com/Drovosek01) 应该可以10.15.x
 
 
 
@@ -110,11 +121,11 @@ BIOS：
 
 
 
-==================================================
+========================================
 
 
 
 [联系我](http://wpa.qq.com/msgrd?v=3&uin=627791772&site=qq&menu=yes)
     企鹅号：   627791772
 
-==================================================
+========================================
