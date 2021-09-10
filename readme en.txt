@@ -1,120 +1,123 @@
 HP Pavilion 15-au042tx notebook
 
-===
-
 -------
 
 cpu:
 
-Intel Core i5-6200u 2.3ghz, TurboBoost 2.8GhZ
+    Intel Core i5-6200u 2.3ghz, TurboBoost 2.8GhZ
 
 CPU platform:
 
-Skylake
+    Skylake
 
 Graphics card:
 
-Intel HD Graphics 520 
+    Intel HD Graphics 520 
 
-NVIDIA geforce 940mx
+    NVIDIA geforce 940mx
 
 Memory:
 
-8 GB DDR4l 2133MHz
+    8 GB DDR4l 2133MHz
 
 a main board:
 
-HP 820C v82.39
+    HP 820C v82.39
 
 BIOS：
 
-HP insyde f.52
+    HP insyde f.52
 
 Sound :
 
-Ruiyu ALC 295
+    Realtek ALC 295
 
 Bluetooth:
 
-Realtek Bluetooth 4.0 adapter
+    Realtek Bluetooth 4.0 adapter
 
 wireless network adapter:
 
-Realtek rtl8723be 802.11 BGN Wi Fi adapter (ac-3165)
+    Realtek rtl8723be 802.11 BGN Wi Fi adapter (ac-3165)
 
 Ethernet:
 
-Realtek rtl8139 / 810x Fast Ethernet adapter
+    Realtek rtl8139 / 810x Fast Ethernet adapter
 
 card reader:
 
-Realtek PCI-E card reader
+    Realtek PCI-E card reader
+
+
+-------
 
 Normal equipment:
 
-Intel HD graphics card 520
+      Intel HD graphics card 520
 
-Graphics acceleration inte quick sync
+      Graphics acceleration inte quick sync
 
-The sound card uses FN + F6 / FN + F7 / FN + F8 to mute, reduce the volume and increase the volume respectively
+      The sound card uses FN + F6 / FN + F7 / FN + F8 to mute, reduce the volume and increase the volume respectively
 
-Touchpad - no gestures
+      Touchpad - no gestures
 
-USB 2.0 port (USB port not customized)
+      USB 2.0 port (USB port not customized)
 
-Built in audio (alcidi = 24)
+      Built in audio (alcidi = 24)
 
-3.5 mini jack headphone connector (no abnormality when plugged in or pulled out)
+      3.5 mini jack headphone connector (no abnormality when plugged in or pulled out)
 
-Ethernet (theoretically supported, no network cable, not tested)
+      Ethernet (theoretically supported, no network cable, not tested)
 
-Wireless internet access:
+      Wireless internet access:
 
-itlwm+heliport.app
+      itlwm+heliport.app
 
-Updated later
+      Updated later
 
-Airportitlwm and enable native WiFi components
+          Airportitlwm and enable native WiFi components
 
-#It is preferred to use this driver, and there is a conflict with the above driver. You can only choose one of them#
+          #It is preferred to use this driver, and there is a conflict with the above driver. You can only choose one of them#
 
-Bluetooth (not tested, can be turned on and off normally --)
+      Bluetooth (not tested, can be turned on and off normally --)
 
 Equipment that does not work properly:
 
-Nvidia Geforce 940MX
+      Nvidia Geforce 940MX
 
-Usb 3.0
+      Usb 3.0
 
-Display brightness
+      Display brightness
 
-CPU fan speed
+      CPU fan speed
 
-CPU temperature
+      CPU temperature
 
 Not tested:
 
-Battery power (because my battery has been removed, it is not clear whether it can be displayed normally)
+      Battery power (because my battery has been removed, it is not clear whether it can be displayed normally)
 
-FaceTime
+      FaceTime
 
-iMassage
+      iMassage
 
-HandOff
+      HandOff
 
-Continuity
+      Continuity
 
-HDMI
+      HDMI
 
-DVD drive (it can be recognized in MacOS. You can even open it by pressing several buttons in the interface, but I don't have a DVD / CD to check the operation of the drive)
+      DVD drive (it can be recognized in MacOS. You can even open it by pressing several buttons in the interface, but I don't have a DVD / CD to check the operation of the drive)
+
+
 
 Test system:
 
-MacOS 11 (theoretically supported to 11.5.2 + 12 beta)
+     MacOS 11 (theoretically supported to 11.5.2 + 12 beta)
 
 Boot:
 
-opencore
+     opencore
 
 -------
 
