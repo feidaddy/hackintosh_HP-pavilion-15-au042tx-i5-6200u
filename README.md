@@ -1,6 +1,7 @@
 HP Pavilion 15-au042tx 笔记本电脑
 ===
-                                  
+    
+-------    
 cpu: 
 
     英特尔酷睿 i5-6200U 2.3GHz、Turboboost 2.8GHz     
@@ -91,10 +92,11 @@ BIOS：
         
         opencore 
         
+-------        
         
-========================================
 
-相关下载：
+
+* 相关下载：
 
 [一键hidpi](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/%E4%B8%80%E9%94%AEhidpi.zip)
 
@@ -108,9 +110,9 @@ BIOS：
 
 [airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
 
-========================================
 
-同配置其他引导:
+
+* 同配置其他引导:
 
 [clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
  来自大佬 [@Drovosek01](https://github.com/Drovosek01) 应该可以支持到10.15.x
@@ -122,11 +124,10 @@ BIOS：
 
 
 
-========================================
 
 
 
-[联系我](http://wpa.qq.com/msgrd?v=3&uin=627791772&site=qq&menu=yes)
+
+* [联系我](http://wpa.qq.com/msgrd?v=3&uin=627791772&site=qq&menu=yes)
     企鹅号：   627791772
 
-========================================
