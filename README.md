@@ -1,4 +1,5 @@
 HP Pavilion 15-au042tx 笔记本电脑
+===
                                   
 cpu: 
 
@@ -111,8 +112,8 @@ BIOS：
 
 同配置其他引导:
 
-[cloverv5119](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
- 来自大佬 [@Drovosek01](https://github.com/Drovosek01) 应该可以10.15.x
+[clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
+ 来自大佬 [@Drovosek01](https://github.com/Drovosek01) 应该可以支持到10.15.x
 
 
 
