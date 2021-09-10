@@ -104,30 +104,29 @@ BIOS：
 
 [菜单栏修改屏幕亮度](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/QuickShade.zip)
 
-无线上网驱动：
+   * 无线上网驱动：
 
-[itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort)
+   [itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort)
 
-[airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
+   [airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
 
 
+------- 
 
 * 同配置其他引导:
 
 [clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
- 来自大佬 [@Drovosek01](https://github.com/Drovosek01) 应该可以支持到10.15.x
+ 来自大佬 [@Drovosek01](https://github.com/Drovosek01) 应该可以支持到10.15.x,算是完美EFI了，缺少的驱动可以用上述的[WIFi驱动](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)，[蓝牙驱动](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
-
-
-
-
-
-
-
-
-
-
+------- 
 
 * [联系我](http://wpa.qq.com/msgrd?v=3&uin=627791772&site=qq&menu=yes)
     企鹅号：   627791772
 
+------- 
+
+* 特别感谢：
+   * [@黑果小兵](https://github.com/daliansky)提供的安装镜像
+   * [@kwangle912](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)提供英特尔无线驱动
+   * [@LZJZMT](https://github.com/LZJZMT/OC-Gen-X)提供opencore配置生成器
+   * [@Drovosek01](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)提供基础efi
