@@ -123,40 +123,35 @@ Boot:
 
 *Related downloads:
 
-[one click hidpi]（ https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/%E4%B8%80%E9%94%AEhidpi.zip )
+[oneclickhidpi](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/%E4%B8%80%E9%94%AEhidpi.zip)
 
-[menu bar modify resolution]（ https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/raw/main/RDM.zip )
+[menu bar modify resolution](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/raw/main/RDM.zip)
 
-[menu bar modify screen brightness]（ https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/QuickShade.zip )
+[menu bar modify screen brightness](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/QuickShade.zip)
 
 *Wireless Internet drive:
 
-[itlwm]( https://github.com/OpenIntelWireless/itlwm ) + [heliport]( https://github.com/OpenIntelWireless/HeliPort )
+[itlwm](https://github.com/OpenIntelWireless/itlwm) + [heliport](https://github.com/OpenIntelWireless/HeliPort)
 
-[airportitlwm]( https://github.com/kwangle912/AirportItlwm-for-Hackintosh )
+[airportitlwm](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)
 
 -------
 
 *The same as other boot configurations:
 
-[clover]( https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U )
+[clover](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)
 
-From the big guy [@ drovosek01]（ https://github.com/Drovosek01 ）It should be able to support 10.15. X, which is a perfect EFI. The missing driver can use the above [WiFi driver]（ https://github.com/kwangle912/AirportItlwm-for-Hackintosh ）, [Bluetooth driver]（ https://github.com/OpenIntelWireless/IntelBluetoothFirmware )
-
--------
-
-*[contact me]（ http://wpa.qq.com/msgrd?v=3&uin=627791772&site=qq&menu=yes )
-
-Qq: 627791772
+From the big guy [@ drovosek01](https://github.com/Drovosek01)It should be able to support 10.15. X, which is a perfect EFI. The missing driver can use the above [WiFi driver](https://github.com/kwangle912/AirportItlwm-for-Hackintosh), [Bluetooth driver](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
 -------
+
 
 *Special thanks to:
 
-    * [@黑果小兵]（ https://github.com/daliansky ）Installation image provided
+    * [@黑果小兵](https://github.com/daliansky)Installation image provided
 
-    * [@kwangle912]( https://github.com/kwangle912/AirportItlwm-for-Hackintosh ）Intel Wireless drivers available
+    * [@kwangle912](https://github.com/kwangle912/AirportItlwm-for-Hackintosh)Intel Wireless drivers available
 
-    * [@LZJZMT]( https://github.com/LZJZMT/OC-Gen-X ）Provide OpenCORE configuration generator
+    * [@LZJZMT](https://github.com/LZJZMT/OC-Gen-X)Provide OpenCORE configuration generator
 
-    * [@Drovosek01]( https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U ）Provide basic EFI
+    * [@Drovosek01](https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U)Provide basic EFI
