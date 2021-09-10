@@ -1,5 +1,9 @@
 HP Pavilion 15-au042tx 笔记本电脑
 ===
+
+-------
+    
+   中文｜[English](https://github.com/feidaddy/hackintosh_HP-pavilion-15-au042tx-i5-6200u/blob/main/readme%20en.txt)
     
 -------    
 cpu: 
