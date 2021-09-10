@@ -153,10 +153,10 @@ Qq: 627791772
 
 *Special thanks to:
 
-* [@黑果小兵]（ https://github.com/daliansky ）Installation image provided
+    * [@黑果小兵]（ https://github.com/daliansky ）Installation image provided
 
-* [@kwangle912]( https://github.com/kwangle912/AirportItlwm-for-Hackintosh ）Intel Wireless drivers available
+    * [@kwangle912]( https://github.com/kwangle912/AirportItlwm-for-Hackintosh ）Intel Wireless drivers available
 
-* [@LZJZMT]( https://github.com/LZJZMT/OC-Gen-X ）Provide OpenCORE configuration generator
+    * [@LZJZMT]( https://github.com/LZJZMT/OC-Gen-X ）Provide OpenCORE configuration generator
 
-* [@Drovosek01]( https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U ）Provide basic EFI
+    * [@Drovosek01]( https://github.com/Drovosek01/hackintosh_HP_Pavilion_15-au028ur_i5-6200U ）Provide basic EFI
