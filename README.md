@@ -55,46 +55,74 @@ BIOS：
 正常设备：
 
         英特尔高清显卡 520
+        
         图形加速 Inte Quick Sync
+        
         声卡用Fn+F6/Fn+F7/Fn+f8，分别静音，减小音量和增大音量
-        触控板 - 无手势   
+        
+        触控板 - 无手势
+        
         USB 2.0 端口  （未定制usb端口）
+        
         内置音频  （alcidi=24）
+        
         3.5 迷你插孔耳机接口   (插入拔出均无异常)
+        
         以太网 （理论上支持，无接网线，未测试）
-        无线上网： 
+        
+        无线上网：
+        
               itlwm+heliport.app
-            后续更新了 
+              
+            后续更新了
+            
               airportitlwm ，并启用原生wifi部件
+              
               #优先建议使用这个驱动，并且与上面的驱动有冲突，只能二选一#
+              
         蓝牙 （未测试，能正常打开关闭 - -）
+        
         
 
 不能正常设备：
 
         Nvidia Geforce 940MX
-        Usb 3.0 
+        
+        Usb 3.0
+        
         显示器亮度
+        
         cpu风扇转速
+        
         cpu温度
+        
         
 未测试：       
 
         电池电量（因为我的电池已经卸下了，所以并不清楚能不能正常显示）
-        FaceTime  
+        
+        FaceTime
+        
         iMassage
+        
         HandOff
-        Continuity 
+        
+        Continuity
+        
         HDMI
+        
         dvd光驱（在 macOS 中可以识别，您甚至可以通过在界面中按几个按钮来打开它，但我没有 DVD/CD 来检查光驱的运行情况）
+        
         
 测试系统：
      
         macos 11 （理论上支持到11.5.2 + 12 beta）
         
+        
 引导：
         
-        opencore 
+        opencore
+        
         
 -------        
         
